@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[18]:
-
 
 import numpy as np
 
@@ -45,16 +40,6 @@ print("Hidden Layer Output:", hidden_output)
 print("Output Layer Input:", output_input)
 print("Final Output:", output)
 print("Error:",error)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
